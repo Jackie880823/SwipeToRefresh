@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhuweiping/Documents/git/android/SwipeToRefresh/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/zhuweiping/Documents/git/android/SwipeToRefresh/app/build/intermediates/pre-dexed/debug/classes-e68e8a0adf5aa45b9d3aead899eb4557f1a59c68.jar" />
+    </item>
+    <item
+        jar="/Users/zhuweiping/Documents/git/android/SwipeToRefresh/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/zhuweiping/Documents/git/android/SwipeToRefresh/app/build/intermediates/pre-dexed/debug/classes-a4ef4a11dc0d64af3aa849b1c176207a4b76d895.jar" />
+    </item>
+    <item
+        jar="/Users/zhuweiping/Documents/git/android/SwipeToRefresh/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/zhuweiping/Documents/git/android/SwipeToRefresh/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-08947678e399b0f399c7d77c1cbf5f12204b924d.jar" />
+    </item>
+    <item
+        jar="/Users/zhuweiping/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/zhuweiping/Documents/git/android/SwipeToRefresh/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-b45e98788ca460e14e0c3189d1a49a87a8bfa407.jar" />
+    </item>
+
+</items>
